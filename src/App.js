@@ -13,11 +13,11 @@ import SingleCard from './components/SingleCard';
 
 const cardImages = [
   { src: '/img/a1.jpeg', matched: false },
-  { src: '/img/a2.webp', matched: false },
-  { src: '/img/a3.webp', matched: false },
+  { src: '/img/a2.jpeg', matched: false },
+  { src: '/img/a3.jpeg', matched: false },
   { src: '/img/a4.jpeg', matched: false },
   { src: '/img/a5.jpeg', matched: false },
-  { src: '/img/a6.webp', matched: false },
+  { src: '/img/a6.jpeg', matched: false },
 ];
 
 function App() {
